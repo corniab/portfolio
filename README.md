@@ -12,7 +12,7 @@ Demonstrate a simple portfolio.
 
 ## Demo
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xjFkISmA3Jw)
 
 ## Development Environment
 
